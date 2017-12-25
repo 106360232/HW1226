@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\user.user-pc\desktop\hw\hw1226\17\source\main.c(10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 請參閱 'fopen' 的宣告
+  17.vcxproj -> C:\Users\user.user-PC\Desktop\HW\HW1226\17\17\Debug\17.exe
+  17.vcxproj -> C:\Users\user.user-PC\Desktop\HW\HW1226\17\17\Debug\17.pdb (Partial PDB)
